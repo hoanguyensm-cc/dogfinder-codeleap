@@ -4,6 +4,7 @@ An intuitive, Tinder-like web application for finding your perfect dog breed! Sw
 
 ## 📋 Table of Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -12,6 +13,23 @@ An intuitive, Tinder-like web application for finding your perfect dog breed! Sw
 - [Testing](#testing)
 - [Code Quality](#code-quality)
 - [API Documentation](#api-documentation)
+
+## 📸 Screenshots
+
+### Main Page - Swipe Interface
+
+![Main Page](./screenshots/main-page.png)
+_Swipe left to dislike, right to like, or up to super like your favorite dog breeds_
+
+### Details Page - Breed Information
+
+![Details Page](./screenshots/details-page.png)
+_View comprehensive information about each breed including temperament, size, and life span_
+
+### Mobile Responsive
+
+![Mobile View](./screenshots/mobile-view.png)
+_Fully responsive design optimized for mobile, tablet, and desktop_
 
 ## ✨ Features
 
