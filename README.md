@@ -18,7 +18,7 @@ An intuitive, Tinder-like web application for finding your perfect dog breed! Sw
 
 ### Main Page - Swipe Interface
 
-![Main Page](./screenshots/main-page.png)
+![Main Page](<img width="1191" height="830" alt="image" src="https://github.com/user-attachments/assets/08f4e90a-ddaf-4018-b2b6-146a244aa76b" />)
 _Swipe left to dislike, right to like, or up to super like your favorite dog breeds_
 
 ### Details Page - Breed Information
